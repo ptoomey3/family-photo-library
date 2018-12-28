@@ -1,4 +1,4 @@
-I've searched high and low for some means of creating a shared family library such that my wife and I can each independently take pictures and they end up in a single library that becomes our shared "source of truth". After trialing nearly every option under the sun (at least twice) I've arrived at using Google Photo as the best solution in 2018. 
+I've searched high and low for some means of creating a shared family library such that my wife and I can each independently take pictures and they end up in a single library that becomes our shared "source of truth". After trialing nearly every option under the sun (at least twice), I've arrived at using Google Photo as the best solution in 2018. 
 
 Here are the steps to setup a shared family library. The following directions assume you have access to a Mac, are not philosophically opposed to using Google services, etc. 
 
